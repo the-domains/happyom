@@ -1,7 +1,7 @@
 name: HappyOm
 favicon: null
-layout_spectrum: 0.873311452800408
-typography_spectrum: 0.17017547180876136
+layout_spectrum: 0.42323
+typography_spectrum: 0.75141
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6871129926294088
+    - '#000000'
+    - '#ffffff'
+    - '#edaa73'
+    - '#b96831'
+    - '#af45c3'
+  brandStrength: 0.6875
   lightness: 0.4855307540856302
-  saturation: 0.08775027235969901
+  saturation: 0.3125
   rhythmicContrast: 0.37254316080361605
 purpose: []
