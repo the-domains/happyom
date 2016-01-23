@@ -4,7 +4,7 @@
         <description><![CDATA[Get Happy !]]></description>
         <link>https://thegrid.ai/happyom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 23:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 23:59:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/happyom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Clap Along]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a40cdb47-a47d-4983-b7e2-4c31481cc9b9.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a40cdb47-a47d-4983-b7e2-4c31481cc9b9.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/happyom/0f7129c0-8c9e-4995-aa4c-a8c65350afd1/index.html</link>
             <guid isPermaLink="false">0f7129c0-8c9e-4995-aa4c-a8c65350afd1</guid>
-            <pubDate>Sat, 23 Jan 2016 23:58:35 GMT</pubDate>
+            <pubDate>Sat, 23 Jan 2016 23:59:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
